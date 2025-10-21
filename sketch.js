@@ -1,6 +1,6 @@
-     const density = "Ñ@#W$9876543210?!abc;:+=-,._          ";
+// An ASCII-video generator test. Later iterations aims to involve AI and potential cure for blindness with it.
 
-
+const density = "Ñ@#W$9876543210?!abc;:+=-,._          ";
 
 //const density = '       .:-i|=+%O#@'
 //const density = '        .:░▒▓█';
